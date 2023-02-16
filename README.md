@@ -3,7 +3,7 @@
 ## Check the settings.py file once for correct DB settings and change it accordingly
 
 ```Bash
-git clone https://github.com/sanjith-kumar-048/helmet-detection-backend-django.git
+git clone https://github.com/thesanjithkumar/helmet-detection-backend-django.git
 ```
 
 ```Bash
