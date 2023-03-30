@@ -5,7 +5,7 @@ from django.utils import timezone
 
 
 class Images(models.Model):
-    name = models.CharField(max_length=250)
+    # name = models.CharField(max_length=250)
     pub_date = models.DateTimeField(default=timezone.now())
     location = models.TextField()
     image = models.ImageField(upload_to='fine_images', blank=True)
